@@ -1,4 +1,16 @@
+# RStudio stuff
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Current survey project data
+2017_PUG3/
+2018_KAC/
+AdHoc_Chile/
+
+# Reference documentation
+z_Reference/
+
+# Development stuff
+dev/
