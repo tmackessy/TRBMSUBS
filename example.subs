@@ -1,0 +1,10 @@
+Example
+kfriction 0.4 kdepth 40
+Name          Element           Length
+A2+           SUBS_A2+          NA
+A2Chain       3/8_Steel_Chain   1.5
+B3            SUBS_B3           NA
+CART          CART              NA
+ChainBridle   3/8_Steel_Chain   0.3
+AnchorCable   5/16_Steel_Wire   3.
+Anchor        SmAnchor          NA
